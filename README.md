@@ -41,6 +41,23 @@ KPI cards (32% negative rate, 29% price premium, 0 social media presence), top c
 Dwaraka Grand charges the highest average menu price (₹114), while Food Quality is the most frequently reported complaint in recent reviews. To improve customer value perception, introduce value meal combos or targeted promotional offers on selected premium items instead of reducing overall menu prices. At the same time, focus on improving food quality and consistency to better justify the premium pricing and strengthen customer satisfaction.
 
 ---
+## 💡 Additional Opportunity
+
+None of the 3 restaurants were found to have an active social media presence. 
+
+For a budget restaurant in a residential area like Kumaraswamy Layout, 
+even a basic active social media page (posting daily specials, food photos, 
+offers) could:
+
+- Attract new customers who discover restaurants through social media
+- Build loyalty with existing customers through offers and engagement  
+- Differentiate from competitors who also lack social media presence
+
+This is a low-cost, high-impact opportunity — the first restaurant 
+in this area to build an active social media presence will have 
+a clear competitive advantage.
+
+---
 
 ## 🛠️ Tools Used
 - **Data Collection:** Manual (Google Maps — 100 reviews per restaurant)
