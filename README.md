@@ -45,7 +45,7 @@ Dwaraka Grand charges the highest average menu price (₹114), while Food Qualit
 ## 🛠️ Tools Used
 - **Data Collection:** Manual (Google Maps — 100 reviews per restaurant)
 - **Data Cleaning & Tagging:** Microsoft Excel (Pivot Tables, manual sentiment tagging)
-- **Data Modeling:** Power BI (Star Schema — 4 tables, 3 relationships)
+- **Data Modeling:** Power BI (Star Schema data model with multiple tables and relationships)
 - **Dashboard:** Power BI Desktop (4 pages, 15+ visuals)
 
 ---
