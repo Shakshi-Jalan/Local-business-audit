@@ -38,9 +38,7 @@ KPI cards (32% negative rate, 29% price premium, 0 social media presence), top c
 ---
 
 ## ⭐ Final Recommendation
-Dwaraka Grand should introduce **Value Meal combos at a 10-15% discount** on high-complaint, high-price items (Chana Bhature ₹165, Veg Fried Rice ₹180). This directly addresses the #1 customer complaint — poor value for money — and closes the 29% price gap vs competitors without changing base menu prices.
-
-**Expected Impact:** Improved value perception, higher repeat visits, and potential rating improvement from 3.9 toward competitor levels (4.0)
+Dwaraka Grand charges the highest average menu price (₹114), while Food Quality is the most frequently reported complaint in recent reviews. To improve customer value perception, introduce value meal combos or targeted promotional offers on selected premium items instead of reducing overall menu prices. At the same time, focus on improving food quality and consistency to better justify the premium pricing and strengthen customer satisfaction.
 
 ---
 
